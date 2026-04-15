@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+  <!-- background -->
+  <rect width="220" height="60" rx="8" fill="#c0392b"/>
+  <!-- icon box -->
+  <rect x="8" y="8" width="44" height="44" rx="6" fill="#f09090" opacity="0.25"/>
+  <!-- icon (32x32 centered in 44x44 box starting at x=8,y=8 → center 30,30, offset icon coords by +14,+14) -->
+  <g transform="translate(6,6)"><path d="M8 22 Q16 10 24 22" fill="none" stroke="white" stroke-width="2.2" stroke-linecap="round"/><path d="M11 19 Q16 13 21 19" fill="none" stroke="white" stroke-width="2.2" stroke-linecap="round"/><circle cx="16" cy="19" r="2" fill="white"/></g>
+  <!-- portal name -->
+  <text x="62" y="28" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="white" dominant-baseline="middle">JabarLine</text>
+  <text x="62" y="44" font-family="Arial, sans-serif" font-size="11" fill="#f09090" dominant-baseline="middle">Portal Berita</text>
+</svg>
